@@ -22,6 +22,7 @@ Built using pure HTML, CSS, and JavaScript without any external frameworks.
 
 ## 🚀 Features
 
+
 ### 📊 Dashboard
 
 * Financial overview with income, expenses and balance
