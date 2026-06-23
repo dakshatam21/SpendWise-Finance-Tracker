@@ -1,6 +1,16 @@
 # 💸 SpendWise – Personal Finance Tracker
 
+
+Intern ID	: CITS5059
+Full Name	: Dakshata Mhatre
+No. of Weeks :	4 Weeks
+Project Name :	SpendWise – Personal Finance Tracker
+Project Scope :	A responsive personal finance management web application that helps users track income, expenses, budgets, recurring payments, and savings goals with analytics and spending insights.
 SpendWise is a modern and responsive personal finance management web application that helps users track income, expenses, budgets, savings goals, and monthly spending patterns.
+
+Project Overview
+
+SpendWise is a modern and responsive personal finance management web application that helps users manage their money efficiently. Users can record transactions, monitor spending habits, set savings goals, track budgets, and analyze monthly financial performance through interactive dashboards and visual insights.
 
 Built using pure HTML, CSS, and JavaScript without any external frameworks.
 
